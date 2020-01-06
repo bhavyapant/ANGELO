@@ -1,6 +1,8 @@
 # ANGELO
 Assigning Grammtical Gender to loanwords in Hindi-Urdu
 
+
+
 How do native speakers of languages with grammatical gender know what gender to assign to words borrowed from another language? 
 
 Traditionally, when borrowing from a language which encodes grammatical gender of its own, speakers simply inherit gender of the borrowed words from their parent language. 
